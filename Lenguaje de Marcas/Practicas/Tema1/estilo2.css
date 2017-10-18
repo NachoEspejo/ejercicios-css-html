@@ -1,0 +1,19 @@
+#destacado{
+	font-size: 3em;
+	background-color: #333
+	color:blue;
+}
+
+
+div, h2, h3, p {
+color: red;
+font-weight: normal;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	color:blue;
+}
+.cabecera{
+	color:orange;
+	font-size: 60px;
+}
